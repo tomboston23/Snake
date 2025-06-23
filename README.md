@@ -14,7 +14,5 @@ This project implements an AI agent that learns to play the classic Snake game u
 
 ## ▶️ How to Run
 
-1. **Install dependencies:**
-
 ```bash
-pip install -r requirements.txt
+snake_main.py
