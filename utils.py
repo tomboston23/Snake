@@ -1,9 +1,5 @@
 import numpy as np
 
-###### Constants you should be using in your code ######
-
-# You are welcome to alter these SIZES.
-
 UP = 0
 DOWN = 1
 LEFT = 2
