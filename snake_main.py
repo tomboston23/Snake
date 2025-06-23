@@ -230,7 +230,7 @@ class Application:
 
 
 def main():
-    parser = argparse.ArgumentParser(description='CS440 MP6 Snake')
+    parser = argparse.ArgumentParser(description='Snake AI')
 
     parser.add_argument('--human', default=False, action="store_true",
                         help='making the game human playable - default False')
