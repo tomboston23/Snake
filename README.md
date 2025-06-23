@@ -1,7 +1,20 @@
-This is code for my Python Snake AI project.
+# 🐍 Snake AI with Deep Learning
 
-The actual AI part is in the agent.py file.
+This project implements an AI agent that learns to play the classic Snake game using deep reinforcement learning techniques. The game is rendered using Pygame, and the agent is trained via a custom reward strategy and neural network.
 
-type run "snake_main.py" in order to run.
+---
 
-You should see the snake run in a pygame interface after a few seconds!
+## 🚀 Features
+
+- AI agent that learns through Q-Learning 
+- Uses epsilon-greedy strategy to determine the best move
+- Built-in visualization via Pygame
+
+---
+
+## ▶️ How to Run
+
+1. **Install dependencies:**
+
+```bash
+pip install -r requirements.txt
